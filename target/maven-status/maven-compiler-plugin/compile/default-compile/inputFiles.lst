@@ -1,0 +1,12 @@
+D:\Paras_collegeproject\backend\src\main\java\com\mca\projectmanager\entity\Project.java
+D:\Paras_collegeproject\backend\src\main\java\com\mca\projectmanager\controller\AuthController.java
+D:\Paras_collegeproject\backend\src\main\java\com\mca\projectmanager\entity\User.java
+D:\Paras_collegeproject\backend\src\main\java\com\mca\projectmanager\repository\TaskRepository.java
+D:\Paras_collegeproject\backend\src\main\java\com\mca\projectmanager\entity\Task.java
+D:\Paras_collegeproject\backend\src\main\java\com\mca\projectmanager\controller\TaskController.java
+D:\Paras_collegeproject\backend\src\main\java\com\mca\projectmanager\repository\ProjectRepository.java
+D:\Paras_collegeproject\backend\src\main\java\com\mca\projectmanager\config\SecurityConfig.java
+D:\Paras_collegeproject\backend\src\main\java\com\mca\projectmanager\repository\UserRepository.java
+D:\Paras_collegeproject\backend\src\main\java\com\mca\projectmanager\util\JwtUtil.java
+D:\Paras_collegeproject\backend\src\main\java\com\mca\projectmanager\ProjectManagerApplication.java
+D:\Paras_collegeproject\backend\src\main\java\com\mca\projectmanager\controller\ProjectController.java

@@ -1,0 +1,13 @@
+com\mca\projectmanager\util\JwtUtil.class
+com\mca\projectmanager\ProjectManagerApplication.class
+com\mca\projectmanager\entity\Project.class
+com\mca\projectmanager\entity\Task.class
+com\mca\projectmanager\repository\TaskRepository.class
+com\mca\projectmanager\controller\AuthController.class
+com\mca\projectmanager\ProjectManagerApplication$1.class
+com\mca\projectmanager\entity\User.class
+com\mca\projectmanager\repository\ProjectRepository.class
+com\mca\projectmanager\controller\TaskController.class
+com\mca\projectmanager\controller\ProjectController.class
+com\mca\projectmanager\config\SecurityConfig.class
+com\mca\projectmanager\repository\UserRepository.class
